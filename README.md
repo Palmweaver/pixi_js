@@ -24,7 +24,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Repo for the pixi.js project https://github.com/pixijs/pixi.js#pixijs--the-html5-creation-engine
+
+Official website: http://www.pixijs.com/
 
 ## License
 
